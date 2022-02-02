@@ -1,4 +1,5 @@
 (1) How to test each requirement I implemented:
+
 	a. Requirement 1 (Gregorian Calendar): Select case 1 from the main menu options and follow the prompts.
 	b. Requirement 6 (add & etc. individual calendars): Select case 2 from the main menu options and follow the prompts.
 	c. Requirements 4 & 2 (add & etc. individual events): Select case 3 from the main menu options and follow the prompts, while for Requirement 2, follow instructions for adding an event.
